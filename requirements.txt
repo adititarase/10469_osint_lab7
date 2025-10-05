@@ -1,0 +1,15 @@
+requests
+python-dotenv
+praw
+telethon
+vk-api
+snscrape
+beautifulsoup4
+discord.py
+linkedin-api
+mastodon.py
+textblob
+langdetect
+pandas
+matplotlib
+tabulate

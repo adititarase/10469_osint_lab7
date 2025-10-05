@@ -1,0 +1,35 @@
+# API Keys Configuration Template
+# Create a file named ".env" in your project root and copy these variables with your actual keys
+
+# Twitter API Keys
+TWITTER_IO_KEY=your_twitterapi_io_key_here
+
+# Reddit API Keys
+REDDIT_ID=your_reddit_client_id_here
+REDDIT_SECRET=your_reddit_client_secret_here
+
+# RapidAPI Keys (for Facebook, Instagram, TikTok, Snapchat)
+FACEBOOK_KEY=your_rapidapi_key_here
+FACEBOOK_RAPID_HOST=your_facebook_rapidapi_host_here
+INSTAGRAM_KEY=your_rapidapi_key_here
+INSTAGRAM_HOST=your_instagram_rapidapi_host_here
+TIKTOK_KEY=your_rapidapi_key_here
+SNAPCHAT_KEY=your_rapidapi_key_here
+
+# GitHub API
+GITHUB_TOKEN=your_github_personal_access_token_here
+
+# LinkedIn API
+LINKEDIN_EMAIL=your_linkedin_email_here
+LINKEDIN_PASSWORD=your_linkedin_password_here
+
+# Mastodon API
+MASTODON_ACCESS_TOKEN=your_mastodon_access_token_here
+MASTODON_API_BASE_URL=https://mastodon.social
+
+# Telegram API
+TELEGRAM_API_ID=your_telegram_api_id_here
+TELEGRAM_API_HASH=your_telegram_api_hash_here
+
+# Discord API
+DISCORD_KEY=your_discord_bot_token_here
